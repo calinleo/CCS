@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/calinleo/CCS/issues"
   },
-  "homepage": "https://github.com/calinleo/CCS#readme"
+  "homepage": "https://github.com/calinleo/CCS#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
