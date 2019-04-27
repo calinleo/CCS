@@ -18,5 +18,10 @@
   "homepage": "https://github.com/calinleo/CCS#readme",
   "dependencies": {
     "bootstrap": "^4.3.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^3.8.11",
+    "gulp-sass": "^4.0.2"
   }
 }
