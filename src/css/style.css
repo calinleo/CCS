@@ -1,0 +1,78 @@
+.topnav{
+    background-color: #cc0000;
+}
+.ml1 {
+margin-left: 10px;
+}
+.mt1{
+    margin-top:10px;
+}
+.mt2{
+    margin-top:20px;
+}
+.underline{
+    text-decoration: underline;
+}
+.caret {
+    display: inline;
+}
+.caret img {
+    width: auto;
+    height: 20px;
+    margin-left: -5px;
+    margin-top: -2px;
+}
+.ToFullSite {
+    color: #cc0000;
+    font-weight: bold;
+    margin-left: 177px;
+    margin-top: 10px;
+}
+.customerName {
+    font-weight: bold;
+}
+.info {
+    background: url('../images/icon.png') no-repeat;
+    width: 20px;
+    height: auto;
+}
+.fr{
+    float: right;
+}
+.fl {
+    float: left;
+}
+.fb{
+    font-weight: bold;
+}
+.fb--red{
+    color:#cc0000;
+}
+.center{
+    text-align: center;
+}
+.square{
+    border: 1px solid #ccc;
+    height: 259px;
+    width: 290px;
+}
+.arc {
+    width: 150px;
+    height: auto;
+}
+.form__input {
+    padding: 6px;
+    border: 1px solid #ccc;
+    width: 190px;
+}
+.form__btn {
+    margin-left: -4px;
+    background: #cc0000;
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
